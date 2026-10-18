@@ -1,8 +1,8 @@
 bl_info = {
     "name": "Apply Specific Modifier",
-    "author": "Your Name",
-    "version": (1, 0),
-    "blender": (3, 0, 0),
+    "author": "Scarecrow_time",
+    "version": (2, 0),
+    "blender": (5, 2, 2),
     "location": "View3D > N-Panel > Apply Mod",
     "description": "Применяет модификатор с заданным именем к выбранным объектам",
     "category": "Object",
